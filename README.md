@@ -165,8 +165,8 @@ Foydalanuvchidan uchta tomon uzunligini kiriting. Ularni asos qilib, uchburchak 
 
 ### 🔹 **10. Ballar bo‘yicha baho**
 
-**Vazifa:**
-Foydalanuvchidan imtihon ballini kiriting (0 dan 100 gacha). Quyidagi baholash tizimiga asoslanib, bahoni chiqarilsin:
+**Vazifa:**F
+Fydalanuvchidan imtihon ballini kiriting (0 dan 100 gacha). Quyidagi baholash tizimiga asoslanib, bahoni chiqarilsin:
 
 * 90-100 — “A”
 * 80-89 — “B”
